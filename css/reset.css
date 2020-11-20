@@ -1,0 +1,11 @@
+/* shrinkwrap */
+/* Reset browser styles */
+/* Licensed under MIT */
+
+header, main, article, section, aside, footer {
+  display: block;
+}
+
+input {
+  -webkit-appearance: none;
+}

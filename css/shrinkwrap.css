@@ -1,0 +1,13 @@
+/* shrinkwrap */
+/* Add class-based styles to elements */
+/* Licensed under MIT */
+
+.btn, .input {
+  padding: .125rem;
+  border: .125rem solid #000;
+  border-radius: .125rem;
+}
+
+.btn:focus, .input:focus {
+  box-shadow: 0 0 0 .125rem #0056A9;
+}
